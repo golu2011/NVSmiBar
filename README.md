@@ -4,7 +4,6 @@
 [![Go Version](https://img.shields.io/badge/Go-1.23%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 [![macOS](https://img.shields.io/badge/macOS-12%2B-000000?logo=apple&logoColor=white)](https://github.com/XingyuHu109/NVSmiBar#installation)
 
-![NVSmiBar](assets/github_readme_top_banner.png)
 
 macOS menu bar app that monitors remote NVIDIA GPUs over SSH — live utilization, temperature, and VRAM every second, no terminal required.
 
